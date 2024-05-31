@@ -1855,3 +1855,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.05.31-20.17.32:995][ 64]AssetCheck: New page: Asset Save: multiple assets
 [2024.05.31-20.17.32:996][ 64]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.05.31-20.17.32:996][ 64]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.05.31-20.20.48:525][826]LogRenderer: Reallocating scene render targets to support 1152x704 Format 10 NumSamples 1 (Frame:167782).
+[2024.05.31-20.20.48:694][827]LogRenderer: Reallocating scene render targets to support 1156x704 Format 10 NumSamples 1 (Frame:167784).
+[2024.05.31-20.20.48:828][828]LogRenderer: Reallocating scene render targets to support 1160x704 Format 10 NumSamples 1 (Frame:167786).
+[2024.05.31-20.20.48:918][829]LogRenderer: Reallocating scene render targets to support 1164x704 Format 10 NumSamples 1 (Frame:167788).
+[2024.05.31-20.27.10:970][934]Cmd: TRANSACTION UNDO
+[2024.05.31-20.27.10:970][934]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-20.27.12:016][972]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_7)
+[2024.05.31-20.27.12:016][972]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_6)
+[2024.05.31-20.27.12:016][972]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_9)
+[2024.05.31-20.27.12:017][972]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_0)
+[2024.05.31-20.27.12:017][972]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_1)
+[2024.05.31-20.27.28:443][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.05.31-20.27.28:748][337]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_DefaultB73964E548F1034705BD078DEF79CB65.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.05.31-20.27.28:763][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.05.31-20.27.29:441][337]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default_BuiltData45F4CC2D4398D109C67482936F1B2348.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.05.31-20.27.29:510][337]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.31-20.27.29:510][337]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.05.31-20.27.29:510][337]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.05.31-20.58.31:960][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.31-20.58.32:273][505]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_DefaultCF304D70423C43D6AA0FF798B20A83D2.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.05.31-20.58.32:285][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.05.31-20.58.32:967][505]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default_BuiltDataFD5D3BE4492CFD8D999AC1BF198CFC48.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.05.31-20.58.33:035][505]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.31-20.58.33:035][505]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.05.31-20.58.33:035][505]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.05.31-20.58.35:389][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.05.31-20.58.35:663][566]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default310134CE4741CF718F3F1A924F1933C0.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.05.31-20.58.35:675][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.05.31-20.58.36:342][566]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default_BuiltDataADF2DB9F4118AD1F92C44F8A30C6663D.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.05.31-20.58.36:394][566]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.31-20.58.36:395][566]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.05.31-20.58.36:395][566]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
