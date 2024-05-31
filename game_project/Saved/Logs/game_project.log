@@ -1575,3 +1575,222 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.05.31-17.36.47:676][730]AssetCheck: New page: Asset Save: multiple assets
 [2024.05.31-17.36.47:676][730]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.05.31-17.36.47:676][730]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.05.31-17.37.25:063][207]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2024.05.31-17.41.57:318][866]MapCheck: New page: Map Check
+[2024.05.31-17.41.57:374][866]LightingResults: New page: Lighting Build - May 31, 2024, 3:41:57 AM
+[2024.05.31-17.41.57:792][866]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.05.31-17.41.57:912][866]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.05.31-17.41.58:013][866]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.05.31-17.42.02:165][866]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2024.05.31-17.42.02:195][866]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2024.05.31-17.42.07:208][866]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.05.31-17.42.07:208][866]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4704
+[2024.05.31-17.42.11:843][866]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2024.05.31-17.42.11:845][866]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.05.31-17.42.11:845][866]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.05.31-17.42.11:845][866]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.05.31-17.42.11:845][866]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.05.31-17.42.11:845][866]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.05.31-17.42.12:405][866]LogEditorBuildUtils: Build time 0:15
+[2024.05.31-17.42.12:697][871]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.31-17.42.12:697][871]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.05.31-17.42.12:697][871]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.05.31-17.42.12:698][871]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2024.05.31-17.42.12:698][871]LogShaderCompilers: Display: ================================================
+[2024.05.31-17.42.19:494][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.05.31-17.43.52:973][194]Job is a success!
+[2024.05.31-17.43.53:841][195]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.352s
+[2024.05.31-17.43.53:841][195]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2024.05.31-17.43.53:841][195]LogVolumetricLightmapImport:      BrickData (all levels) 3.8Mb
+[2024.05.31-17.43.53:841][195]LogVolumetricLightmapImport:      Bricks at depth
+[2024.05.31-17.43.53:841][195]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2024.05.31-17.43.53:841][195]LogVolumetricLightmapImport:          1: 6.4% covering 9.6% of volume
+[2024.05.31-17.43.53:841][195]LogVolumetricLightmapImport:          2: 92.6% covering 2.2% of volume
+[2024.05.31-17.43.53:841][195]LogVolumetricLightmapImport:      Bricks in each level
+[2024.05.31-17.43.53:841][195]LogVolumetricLightmapImport:          Minimal_Default 			 767 bricks 	 100.0% (Persistent Level)
+[2024.05.31-17.43.56:830][195]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:830][195]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:830][195]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:830][195]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: SkyOcclusion0_5 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: SkyOcclusion0_6 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: SkyOcclusion0_7 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:831][195]LogTexture: Display: Building textures: HQ_Lightmap0_7 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:832][195]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:832][195]LogTexture: Display: Building textures: HQ_Lightmap0_8 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:832][195]LogTexture: Display: Building textures: SkyOcclusion0_8 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:832][195]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:832][195]LogTexture: Display: Building textures: SkyOcclusion0_9 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:832][195]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:832][195]LogTexture: Display: Building textures: HQ_Lightmap0_9 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:832][195]LogTexture: Display: Building textures: SkyOcclusion0_10 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: HQ_Lightmap0_10 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: SkyOcclusion0_11 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: HQ_Lightmap0_11 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: SkyOcclusion0_12 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: HQ_Lightmap0_12 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: SkyOcclusion0_13 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: HQ_Lightmap0_13 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: SkyOcclusion0_14 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: HQ_Lightmap0_14 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: SkyOcclusion0_15 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: HQ_Lightmap0_15 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:833][195]LogTexture: Display: Building textures: SkyOcclusion0_16 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:834][195]LogTexture: Display: Building textures: HQ_Lightmap0_16 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:834][195]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:834][195]LogTexture: Display: Building textures: SkyOcclusion0_17 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:834][195]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:834][195]LogTexture: Display: Building textures: HQ_Lightmap0_17 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:834][195]LogTexture: Display: Building textures: SkyOcclusion0_18 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:834][195]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:834][195]LogTexture: Display: Building textures: HQ_Lightmap0_18 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:834][195]LogTexture: Display: Building textures: SkyOcclusion0_19 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:834][195]LogTexture: Display: Building textures: HQ_Lightmap0_19 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:834][195]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:834][195]LogTexture: Display: Building textures: SkyOcclusion0_20 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: HQ_Lightmap0_20 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: SkyOcclusion0_21 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: HQ_Lightmap0_21 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: SkyOcclusion0_22 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: HQ_Lightmap0_22 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: SkyOcclusion0_23 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: HQ_Lightmap0_23 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: SkyOcclusion0_24 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: HQ_Lightmap0_24 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: SkyOcclusion0_25 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:835][195]LogTexture: Display: Building textures: HQ_Lightmap0_25 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: SkyOcclusion0_26 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: HQ_Lightmap0_26 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: SkyOcclusion0_27 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: HQ_Lightmap0_27 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: SkyOcclusion0_28 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: HQ_Lightmap0_28 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: SkyOcclusion0_29 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: HQ_Lightmap0_29 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: SkyOcclusion0_30 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: HQ_Lightmap0_30 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: SkyOcclusion0_31 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:836][195]LogTexture: Display: Building textures: HQ_Lightmap0_31 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:837][195]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:837][195]LogTexture: Display: Building textures: SkyOcclusion0_32 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:837][195]LogTexture: Display: Building textures: HQ_Lightmap0_32 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:837][195]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:837][195]LogTexture: Display: Building textures: SkyOcclusion0_33 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:837][195]LogTexture: Display: Building textures: HQ_Lightmap0_33 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:837][195]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:837][195]LogTexture: Display: Building textures: SkyOcclusion0_34 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:837][195]LogTexture: Display: Building textures: HQ_Lightmap0_34 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:837][195]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:837][195]LogTexture: Display: Building textures: SkyOcclusion0_35 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:837][195]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:838][195]LogTexture: Display: Building textures: HQ_Lightmap0_35 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:838][195]LogTexture: Display: Building textures: SkyOcclusion0_36 (OODLE_AutoDXT, 512X256)
+[2024.05.31-17.43.56:838][195]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (OODLE_DXT1, 512X512)
+[2024.05.31-17.43.56:838][195]LogTexture: Display: Building textures: HQ_Lightmap0_36 (OODLE_AutoDXT, 512X512)
+[2024.05.31-17.43.56:838][195]LogTexture: Display: Building textures: SkyOcclusion0_37 (OODLE_AutoDXT, 64X32)
+[2024.05.31-17.43.56:838][195]LogTexture: Display: Building textures: HQ_Lightmap0_37 (OODLE_AutoDXT, 64X64)
+[2024.05.31-17.43.56:838][195]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (OODLE_DXT1, 64X64)
+[2024.05.31-17.43.57:030][195]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 256X256)
+[2024.05.31-17.43.57:031][195]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 256X256)
+[2024.05.31-17.43.57:032][195]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 256X256)
+[2024.05.31-17.43.57:032][195]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 256X256)
+[2024.05.31-17.43.57:040][195]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 256X256)
+[2024.05.31-17.43.57:041][195]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 256X256)
+[2024.05.31-17.43.57:041][195]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 256X256)
+[2024.05.31-17.43.57:269][195]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 256X256)
+[2024.05.31-17.43.57:269][195]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 256X256)
+[2024.05.31-17.43.57:270][195]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 256X256)
+[2024.05.31-17.43.57:270][195]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 256X256)
+[2024.05.31-17.43.57:270][195]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 32X32)
+[2024.05.31-17.43.57:270][195]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 256X256)
+[2024.05.31-17.43.57:270][195]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 256X256)
+[2024.05.31-17.43.57:270][195]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 256X256)
+[2024.05.31-17.43.57:270][195]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 256X256)
+[2024.05.31-17.43.57:270][195]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 256X256)
+[2024.05.31-17.43.57:270][195]Lightmass on DESKTOP-S79TQUH: 1:36 min total, 2.05 sec importing, 840 ms setup, 15.8 sec photons, 1:17 min processing, 0 ms extra exporting [37/37 mappings]. Threads: 9:04 min total, 3:43 min processing.
+[2024.05.31-17.43.57:300][195]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 37 meshes in 37 LightmapResourceClusters (1.0 Meshes per cluster).
+[2024.05.31-17.43.57:348][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.31-17.43.57:387][195]LogStaticLightingSystem: Illumination: 1:59 min (2.35 sec encoding lightmaps, 268 ms encoding shadowmaps)
+[2024.05.31-17.43.57:387][195]LogStaticLightingSystem: Lightmap texture memory:  24.0 MB (24.0 MB streaming, 0.0 MB non-streaming), 74 textures
+[2024.05.31-17.43.57:387][195]LogStaticLightingSystem: Shadowmap texture memory: 3.0 MB (3.0 MB streaming, 0.0 MB non-streaming), 37 textures
+[2024.05.31-17.43.57:914][195]DumpUnbuiltLightIteractions
+[2024.05.31-17.43.57:914][195]Lights with unbuilt interactions: 0
+[2024.05.31-17.43.57:914][195]
+[2024.05.31-17.43.57:914][195]Primitives with unbuilt interactions: 0
+[2024.05.31-17.43.58:180][195]LogSlate: Took 0.002193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.05.31-17.43.58:182][196]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.05.31-17.43.58:183][196]MapCheck: New page: Minimal_Default - May 31, 2024, 3:43:58 AM
+[2024.05.31-17.43.58:186][196]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.566ms to complete.
+[2024.05.31-17.44.00:883][204]LogSlate: Window 'Message Log' being destroyed
+[2024.05.31-17.44.00:895][204]LogSlate: Window 'Message Log' being destroyed
+[2024.05.31-17.44.21:469][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.31-17.44.22:048][ 91]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_DefaultC690D6BB4CB6EB8D29BD4A92981A7CF9.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.05.31-17.44.22:056][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.05.31-17.44.24:107][ 91]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default_BuiltDataA06B3DB64548C6EF5328D9A6BE8BA5B5.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.05.31-17.44.24:138][ 91]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.31-17.44.24:138][ 91]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.05.31-17.44.24:139][ 91]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
