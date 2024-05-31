@@ -1307,3 +1307,58 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.05.31-17.09.43:555][ 96]AssetCheck: New page: Asset Save: multiple assets
 [2024.05.31-17.09.43:555][ 96]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.05.31-17.09.43:555][ 96]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.05.31-17.24.28:260][ 74]LogRenderer: Reallocating scene render targets to support 932x444 Format 10 NumSamples 1 (Frame:4918).
+[2024.05.31-17.24.28:338][ 75]LogRenderer: Reallocating scene render targets to support 932x464 Format 10 NumSamples 1 (Frame:4920).
+[2024.05.31-17.24.28:401][ 76]LogRenderer: Reallocating scene render targets to support 932x492 Format 10 NumSamples 1 (Frame:4922).
+[2024.05.31-17.24.44:104][792]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2024.05.31-17.24.44:219][792]LogSlate: Took 0.002178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.31-17.25.01:116][129]LogHttp: Warning: 0000015208324F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B095D8875-4451-6DF2-2777-4E866DB350A8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-17.25.01:116][129]LogHttp: Warning: 0000015208324F00: request failed, libcurl error: 0 (No error)
+[2024.05.31-17.25.01:116][129]LogHttp: Warning: 0000015208324F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1523cfd9960 [can pipeline])
+[2024.05.31-17.25.01:116][129]LogHttp: Warning: 0000015208324F00: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2024.05.31-17.25.01:116][129]LogHttp: Warning: 0000015208324F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (10.202.10.6) port 443 (#4))
+[2024.05.31-17.25.01:116][129]LogHttp: Warning: 0000015208324F00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.31-17.25.01:116][129]LogHttp: Warning: 0000015208324F00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.31-17.25.01:116][129]LogHttp: Warning: 0000015208324F00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.05.31-17.25.01:116][129]LogHttp: Warning: 0000015208324F00: libcurl info message cache 6 (TLSv1.3 (IN), TLS Unknown, Unknown (21):)
+[2024.05.31-17.25.01:116][129]LogHttp: Warning: 0000015208324F00: libcurl info message cache 7 (TLSv1.3 (IN), TLS alert, Client hello (1):)
+[2024.05.31-17.25.01:116][129]LogHttp: Warning: 0000015208324F00: libcurl info message cache 8 (Connection died, retrying a fresh connect)
+[2024.05.31-17.25.01:116][129]LogHttp: Warning: 0000015208324F00: libcurl info message cache 9 (necessary data rewind wasn't possible)
+[2024.05.31-17.25.01:116][129]LogHttp: Warning: 0000015208324F00: libcurl info message cache 10 (Closing connection 4)
+[2024.05.31-17.25.01:117][129]LogHttp: Warning: 0000015208324F00: libcurl info message cache 11 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.05.31-17.25.01:117][129]LogHttp: Warning: 0000015208324F00: libcurl info message cache 12 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2024.05.31-17.25.01:134][130]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B095D8875-4451-6DF2-2777-4E866DB350A8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-17.27.33:581][631]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2024.05.31-17.27.33:581][631]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2024.05.31-17.27.33:581][631]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2024.05.31-17.27.33:581][631]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2024.05.31-17.27.33:581][631]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 256X512)
+[2024.05.31-17.27.33:581][631]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2024.05.31-17.27.33:581][631]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2024.05.31-17.27.33:581][631]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2024.05.31-17.27.33:581][631]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2024.05.31-17.27.33:581][631]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 256X512)
+[2024.05.31-17.27.33:581][631]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2024.05.31-17.27.33:581][631]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2024.05.31-17.27.33:634][631]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2024.05.31-17.27.33:634][631]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2024.05.31-17.27.33:634][631]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 256X512)
+[2024.05.31-17.27.33:634][631]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2024.05.31-17.27.33:634][631]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X512)
+[2024.05.31-17.27.33:634][631]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 512X512)
+[2024.05.31-17.27.33:634][631]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 512X512)
+[2024.05.31-17.27.33:634][631]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 256X512)
+[2024.05.31-17.27.33:634][631]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X256)
+[2024.05.31-17.27.33:634][631]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 512X256)
+[2024.05.31-17.27.33:634][631]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 512X256)
+[2024.05.31-17.27.33:634][631]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 512X256)
+[2024.05.31-17.27.33:634][631]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2024.05.31-17.27.53:708][234]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.05.31-17.28.31:191][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.05.31-17.28.31:214][377]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2024.05.31-17.28.32:195][377]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_DefaultA8C97D1249766F1607886B83175275F9.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.05.31-17.28.32:204][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.05.31-17.28.32:281][377]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default_BuiltData8A865456421B8A0142DACA9E4BE4CA5F.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.05.31-17.28.32:320][377]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.31-17.28.32:320][377]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.05.31-17.28.32:320][377]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
