@@ -1255,3 +1255,603 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.05.31-18.39.46:510][876]AssetCheck: New page: Asset Save: multiple assets
 [2024.05.31-18.39.46:512][876]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.05.31-18.39.46:513][876]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.05.31-18.43.25:164][172]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2024.05.31-18.43.41:953][492]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2024.05.31-18.45.19:357][265]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2024.05.31-18.45.21:896][341]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 256X256)
+[2024.05.31-18.45.21:970][341]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 256X256)
+[2024.05.31-18.45.22:563][355]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2024.05.31-18.45.22:582][355]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 256X256)
+[2024.05.31-18.45.22:606][355]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2024.05.31-18.45.22:680][355]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2024.05.31-18.45.22:684][355]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2024.05.31-18.45.22:754][355]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 256X256)
+[2024.05.31-18.45.22:759][355]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2024.05.31-18.45.22:836][355]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2024.05.31-18.45.26:834][457]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2024.05.31-18.45.26:901][457]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 256X256)
+[2024.05.31-18.45.27:408][468]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 256X256)
+[2024.05.31-18.45.27:427][468]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 256X256)
+[2024.05.31-18.45.27:487][468]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2024.05.31-18.45.27:542][468]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2024.05.31-18.45.27:547][468]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2024.05.31-18.45.27:563][468]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 256X256)
+[2024.05.31-18.45.27:568][468]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2024.05.31-18.45.27:583][468]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 256X256)
+[2024.05.31-18.45.27:999][477]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2024.05.31-18.45.28:018][477]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 256X256)
+[2024.05.31-18.45.34:961][678]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2024.05.31-18.45.34:977][678]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 256X256)
+[2024.05.31-18.45.35:589][694]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2024.05.31-18.45.35:606][694]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 256X256)
+[2024.05.31-18.45.35:629][694]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2024.05.31-18.45.35:659][694]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 256X256)
+[2024.05.31-18.45.35:722][694]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2024.05.31-18.45.35:739][694]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2024.05.31-18.45.35:765][694]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 256X256)
+[2024.05.31-18.45.35:782][694]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 256X256)
+[2024.05.31-18.45.36:336][707]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 256X256)
+[2024.05.31-18.45.36:366][707]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 256X256)
+[2024.05.31-18.45.37:093][728]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 256X256)
+[2024.05.31-18.45.37:108][728]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 256X256)
+[2024.05.31-18.46.30:536][438]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 256X256)
+[2024.05.31-18.46.30:622][438]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 256X256)
+[2024.05.31-18.46.31:541][463]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 256X256)
+[2024.05.31-18.46.31:572][463]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 256X256)
+[2024.05.31-18.46.34:220][541]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 256X256)
+[2024.05.31-18.46.34:249][541]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 256X256)
+[2024.05.31-18.46.36:272][602]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 256X256)
+[2024.05.31-18.46.36:286][602]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 256X256)
+[2024.05.31-18.46.48:319][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.05.31-18.46.48:335][974]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 256X256)
+[2024.05.31-18.46.48:339][974]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 256X256)
+[2024.05.31-18.46.48:342][974]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 256X256)
+[2024.05.31-18.46.48:345][974]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2024.05.31-18.46.48:349][974]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2024.05.31-18.46.48:355][974]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2024.05.31-18.46.48:359][974]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 256X256)
+[2024.05.31-18.46.48:362][974]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 256X256)
+[2024.05.31-18.46.48:366][974]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 256X256)
+[2024.05.31-18.46.48:600][974]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default432284D1402A6AA6FE22C894004E552C.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.05.31-18.46.48:615][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.05.31-18.46.49:964][974]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default_BuiltData4B62DE7348F71F58FF8810A28F0AEAC5.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.05.31-18.46.50:003][974]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.31-18.46.50:003][974]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.05.31-18.46.50:003][974]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.05.31-18.46.52:017][ 34]MapCheck: New page: Map Check
+[2024.05.31-18.46.52:075][ 34]Cmd: MAP REBUILD ALLVISIBLE
+[2024.05.31-18.46.52:075][ 34]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.05.31-18.46.52:085][ 34]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2024.05.31-18.46.52:125][ 34]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.05.31-18.46.52:125][ 34]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2024.05.31-18.46.52:125][ 34]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2024.05.31-18.46.52:141][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.31-18.46.52:424][ 34]LogLevel: Display: Export Material TexCoord Scales took 0.276 seconds.
+[2024.05.31-18.46.52:428][ 34]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2024.05.31-18.46.52:439][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.05.31-18.46.52:443][ 34]LightingResults: New page: Lighting Build - May 31, 2024, 4:46:52 AM
+[2024.05.31-18.46.52:450][ 34]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2024.05.31-18.46.52:453][ 34]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.05.31-18.46.52:458][ 34]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.05.31-18.46.52:458][ 34]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.05.31-18.46.52:460][ 34]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.05.31-18.46.52:461][ 34]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4084
+[2024.05.31-18.46.57:093][ 34]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2024.05.31-18.46.57:093][ 34]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.05.31-18.46.57:093][ 34]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.05.31-18.46.57:093][ 34]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.05.31-18.46.57:094][ 34]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.05.31-18.46.57:094][ 34]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.05.31-18.46.57:353][ 34]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.05.31-18.46.57:353][ 34]MapCheck: New page: Minimal_Default - May 31, 2024, 4:46:57 AM
+[2024.05.31-18.46.57:403][ 34]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2024.05.31-18.46.57:403][ 34]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 49.764ms to complete.
+[2024.05.31-18.46.57:407][ 34]LogEditorBuildUtils: Build time 0:05
+[2024.05.31-18.46.57:646][ 35]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.31-18.46.57:646][ 35]LogShaderCompilers: Display: Total job queries 286, among them cache hits 36 (12.59%)
+[2024.05.31-18.46.57:646][ 35]LogShaderCompilers: Display: Tracking 250 distinct input hashes that result in 163 distinct outputs (65.20%)
+[2024.05.31-18.46.57:647][ 35]LogShaderCompilers: Display: RAM used: 1.18 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.29%
+[2024.05.31-18.46.57:647][ 35]LogShaderCompilers: Display: ================================================
+[2024.05.31-18.46.58:897][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.31-18.46.59:379][ 45]LogSlate: Window 'Message Log' being destroyed
+[2024.05.31-18.46.59:428][ 45]LogSlate: Window 'Message Log' being destroyed
+[2024.05.31-18.47.03:693][163]MapCheck: New page: Map Check
+[2024.05.31-18.47.03:741][163]LogStaticLightingSystem: Warning: Failed to build lighting!!! A lighting build is already in progress! Please cancel it before triggering a new build.
+[2024.05.31-18.47.04:104][163]LogEditorBuildUtils: Build time 0:00
+[2024.05.31-18.47.05:500][202]LogSlate: Window 'Message Log' being destroyed
+[2024.05.31-18.47.05:528][202]LogSlate: Window 'Message Log' being destroyed
+[2024.05.31-18.47.12:655][410]MapCheck: New page: Map Check
+[2024.05.31-18.47.12:681][410]LightingResults: New page: Lighting Build - May 31, 2024, 4:47:12 AM
+[2024.05.31-18.47.12:721][410]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2024.05.31-18.47.12:728][410]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.05.31-18.47.12:730][410]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.05.31-18.47.12:730][410]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.05.31-18.47.12:731][410]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.05.31-18.47.12:731][410]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4084
+[2024.05.31-18.47.17:297][410]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2024.05.31-18.47.17:297][410]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.05.31-18.47.17:297][410]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.05.31-18.47.17:297][410]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.05.31-18.47.17:297][410]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.05.31-18.47.17:297][410]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.05.31-18.47.17:540][410]LogEditorBuildUtils: Build time 0:04
+[2024.05.31-18.47.17:604][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.05.31-18.48.11:109][771]Job is a success!
+[2024.05.31-18.48.12:018][772]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.371s
+[2024.05.31-18.48.12:018][772]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2024.05.31-18.48.12:018][772]LogVolumetricLightmapImport:      BrickData (all levels) 3.8Mb
+[2024.05.31-18.48.12:018][772]LogVolumetricLightmapImport:      Bricks at depth
+[2024.05.31-18.48.12:018][772]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2024.05.31-18.48.12:018][772]LogVolumetricLightmapImport:          1: 6.7% covering 9.6% of volume
+[2024.05.31-18.48.12:018][772]LogVolumetricLightmapImport:          2: 92.2% covering 2.1% of volume
+[2024.05.31-18.48.12:018][772]LogVolumetricLightmapImport:      Bricks in each level
+[2024.05.31-18.48.12:018][772]LogVolumetricLightmapImport:          Minimal_Default 			 731 bricks 	 100.0% (Persistent Level)
+[2024.05.31-18.48.12:925][772]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 512X512)
+[2024.05.31-18.48.12:925][772]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 512X256)
+[2024.05.31-18.48.12:926][772]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 512X512)
+[2024.05.31-18.48.12:926][772]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 512X256)
+[2024.05.31-18.48.12:926][772]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 512X512)
+[2024.05.31-18.48.12:926][772]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 512X512)
+[2024.05.31-18.48.12:926][772]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 512X256)
+[2024.05.31-18.48.12:926][772]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 512X512)
+[2024.05.31-18.48.12:926][772]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 512X256)
+[2024.05.31-18.48.12:926][772]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 512X512)
+[2024.05.31-18.48.12:926][772]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 512X512)
+[2024.05.31-18.48.12:926][772]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 512X512)
+[2024.05.31-18.48.12:926][772]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 512X512)
+[2024.05.31-18.48.12:926][772]LogTexture: Display: Building textures: SkyOcclusion0_5 (OODLE_AutoDXT, 512X256)
+[2024.05.31-18.48.12:926][772]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 512X512)
+[2024.05.31-18.48.12:927][772]LogTexture: Display: Building textures: SkyOcclusion0_6 (OODLE_AutoDXT, 512X256)
+[2024.05.31-18.48.12:927][772]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 512X512)
+[2024.05.31-18.48.12:927][772]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 512X512)
+[2024.05.31-18.48.12:927][772]LogTexture: Display: Building textures: SkyOcclusion0_7 (OODLE_AutoDXT, 512X256)
+[2024.05.31-18.48.12:927][772]LogTexture: Display: Building textures: HQ_Lightmap0_7 (OODLE_AutoDXT, 512X512)
+[2024.05.31-18.48.12:927][772]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (OODLE_DXT1, 512X512)
+[2024.05.31-18.48.12:927][772]LogTexture: Display: Building textures: SkyOcclusion0_8 (OODLE_AutoDXT, 512X256)
+[2024.05.31-18.48.12:927][772]LogTexture: Display: Building textures: HQ_Lightmap0_8 (OODLE_AutoDXT, 512X512)
+[2024.05.31-18.48.12:927][772]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (OODLE_DXT1, 512X512)
+[2024.05.31-18.48.12:927][772]LogTexture: Display: Building textures: SkyOcclusion0_9 (OODLE_AutoDXT, 512X256)
+[2024.05.31-18.48.12:927][772]LogTexture: Display: Building textures: HQ_Lightmap0_9 (OODLE_AutoDXT, 512X512)
+[2024.05.31-18.48.12:927][772]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (OODLE_DXT1, 512X512)
+[2024.05.31-18.48.12:927][772]LogTexture: Display: Building textures: SkyOcclusion0_10 (OODLE_AutoDXT, 512X256)
+[2024.05.31-18.48.12:928][772]LogTexture: Display: Building textures: HQ_Lightmap0_10 (OODLE_AutoDXT, 512X512)
+[2024.05.31-18.48.12:928][772]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (OODLE_DXT1, 512X512)
+[2024.05.31-18.48.12:928][772]LogTexture: Display: Building textures: HQ_Lightmap0_11 (OODLE_AutoDXT, 512X512)
+[2024.05.31-18.48.12:928][772]LogTexture: Display: Building textures: SkyOcclusion0_11 (OODLE_AutoDXT, 512X256)
+[2024.05.31-18.48.12:928][772]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (OODLE_DXT1, 512X512)
+[2024.05.31-18.48.12:928][772]LogTexture: Display: Building textures: SkyOcclusion0_12 (OODLE_AutoDXT, 512X256)
+[2024.05.31-18.48.12:928][772]LogTexture: Display: Building textures: HQ_Lightmap0_12 (OODLE_AutoDXT, 512X512)
+[2024.05.31-18.48.12:928][772]LogTexture: Display: Building textures: SkyOcclusion0_13 (OODLE_AutoDXT, 64X32)
+[2024.05.31-18.48.12:928][772]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (OODLE_DXT1, 512X512)
+[2024.05.31-18.48.12:928][772]LogTexture: Display: Building textures: HQ_Lightmap0_13 (OODLE_AutoDXT, 64X64)
+[2024.05.31-18.48.12:928][772]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (OODLE_DXT1, 64X64)
+[2024.05.31-18.48.13:086][772]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 256X256)
+[2024.05.31-18.48.13:086][772]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 256X256)
+[2024.05.31-18.48.13:086][772]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 256X256)
+[2024.05.31-18.48.13:087][772]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (G8, 256X256)
+[2024.05.31-18.48.13:087][772]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 256X256)
+[2024.05.31-18.48.13:087][772]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 256X256)
+[2024.05.31-18.48.13:087][772]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (G8, 256X256)
+[2024.05.31-18.48.13:087][772]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (G8, 256X256)
+[2024.05.31-18.48.13:087][772]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 32X32)
+[2024.05.31-18.48.13:087][772]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (G8, 256X256)
+[2024.05.31-18.48.13:087][772]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (G8, 256X256)
+[2024.05.31-18.48.13:087][772]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (G8, 256X256)
+[2024.05.31-18.48.13:087][772]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (G8, 256X256)
+[2024.05.31-18.48.13:087][772]Lightmass on DESKTOP-S79TQUH: 54.4 sec total, 896 ms importing, 330 ms setup, 7.41 sec photons, 45.8 sec processing, 0 ms extra exporting [13/13 mappings]. Threads: 5:20 min total, 1:37 min processing.
+[2024.05.31-18.48.13:106][772]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 13 meshes in 13 LightmapResourceClusters (1.0 Meshes per cluster).
+[2024.05.31-18.48.13:139][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.05.31-18.48.13:179][772]LogStaticLightingSystem: Illumination: 1:00 min (717 ms encoding lightmaps, 80 ms encoding shadowmaps)
+[2024.05.31-18.48.13:179][772]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 26 textures
+[2024.05.31-18.48.13:179][772]LogStaticLightingSystem: Shadowmap texture memory: 1.0 MB (1.0 MB streaming, 0.0 MB non-streaming), 13 textures
+[2024.05.31-18.48.13:344][772]DumpUnbuiltLightIteractions
+[2024.05.31-18.48.13:344][772]Lights with unbuilt interactions: 0
+[2024.05.31-18.48.13:344][772]
+[2024.05.31-18.48.13:344][772]Primitives with unbuilt interactions: 0
+[2024.05.31-18.48.13:488][773]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.05.31-18.48.13:489][773]MapCheck: New page: Minimal_Default - May 31, 2024, 4:48:13 AM
+[2024.05.31-18.48.13:489][773]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.549ms to complete.
+[2024.05.31-18.54.00:176][624]LogSlate: Window 'Message Log' being destroyed
+[2024.05.31-18.54.00:190][624]LogSlate: Window 'Message Log' being destroyed
+[2024.05.31-18.54.14:242][ 89]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 256X256)
+[2024.05.31-18.54.14:317][ 89]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 256X256)
+[2024.05.31-18.54.14:936][107]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 256X256)
+[2024.05.31-18.54.15:024][107]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 256X256)
+[2024.05.31-18.54.15:766][131]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 256X256)
+[2024.05.31-18.54.15:855][131]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 256X256)
+[2024.05.31-18.54.21:118][310]Cmd: TRANSACTION UNDO
+[2024.05.31-18.54.21:118][310]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2024.05.31-18.54.21:152][310]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_3)
+[2024.05.31-18.54.21:290][310]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2024.05.31-18.54.21:301][310]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 256X256)
+[2024.05.31-18.54.21:307][310]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 256X256)
+[2024.05.31-18.54.21:563][313]Cmd: TRANSACTION UNDO
+[2024.05.31-18.54.21:563][313]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2024.05.31-18.54.21:737][313]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2024.05.31-18.54.21:752][313]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 256X256)
+[2024.05.31-18.54.57:120][409]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2024.05.31-18.55.24:134][231]Cmd: TRANSACTION UNDO
+[2024.05.31-18.55.24:134][231]LogEditorTransaction: Undo Landscape Editing: Move to Streaming Level
+[2024.05.31-18.55.24:495][237]Cmd: TRANSACTION UNDO
+[2024.05.31-18.55.24:495][237]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2024.05.31-18.55.24:768][245]Cmd: TRANSACTION UNDO
+[2024.05.31-18.55.24:768][245]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2024.05.31-18.55.25:050][257]Cmd: TRANSACTION UNDO
+[2024.05.31-18.55.25:050][257]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2024.05.31-18.55.25:420][268]Cmd: TRANSACTION UNDO
+[2024.05.31-18.55.25:420][268]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2024.05.31-18.55.25:853][279]Cmd: TRANSACTION UNDO
+[2024.05.31-18.55.25:853][279]LogEditorTransaction: Undo Landscape Editing: Move to Streaming Level
+[2024.05.31-18.55.26:302][288]Cmd: TRANSACTION UNDO
+[2024.05.31-18.55.26:302][288]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2024.05.31-18.55.27:157][310]Cmd: TRANSACTION UNDO
+[2024.05.31-18.55.27:157][310]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2024.05.31-18.55.27:627][322]Cmd: TRANSACTION UNDO
+[2024.05.31-18.55.27:627][322]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2024.05.31-18.55.28:169][336]Cmd: TRANSACTION UNDO
+[2024.05.31-18.55.28:169][336]LogEditorTransaction: Undo Marquee Select
+[2024.05.31-18.55.28:616][348]Cmd: TRANSACTION UNDO
+[2024.05.31-18.55.28:616][348]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2024.05.31-18.55.28:651][348]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_3)
+[2024.05.31-18.55.32:861][458]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 256X256)
+[2024.05.31-18.55.32:949][458]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 256X256)
+[2024.05.31-18.55.33:666][473]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 256X256)
+[2024.05.31-18.55.33:700][473]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 256X256)
+[2024.05.31-18.55.33:705][473]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 256X256)
+[2024.05.31-18.55.33:720][473]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 256X256)
+[2024.05.31-18.55.33:725][473]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 256X256)
+[2024.05.31-18.55.33:787][473]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 256X256)
+[2024.05.31-18.55.33:792][473]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 256X256)
+[2024.05.31-18.55.33:808][473]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 256X256)
+[2024.05.31-18.55.34:623][492]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 256X256)
+[2024.05.31-18.55.34:642][492]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 256X256)
+[2024.05.31-18.56.27:773][203]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.05.31-18.56.29:186][264]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.05.31-18.56.31:480][355]Cmd: TRANSACTION UNDO
+[2024.05.31-18.56.31:480][355]LogEditorTransaction: Undo Clearing Selection
+[2024.05.31-18.56.31:795][359]Cmd: TRANSACTION UNDO
+[2024.05.31-18.56.31:795][359]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2024.05.31-18.56.32:046][364]Cmd: TRANSACTION UNDO
+[2024.05.31-18.56.32:046][364]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2024.05.31-18.56.32:297][371]Cmd: TRANSACTION UNDO
+[2024.05.31-18.56.32:297][371]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2024.05.31-18.56.32:542][378]Cmd: TRANSACTION UNDO
+[2024.05.31-18.56.32:542][378]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2024.05.31-18.56.32:785][385]Cmd: TRANSACTION UNDO
+[2024.05.31-18.56.32:785][385]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2024.05.31-18.56.33:054][393]Cmd: TRANSACTION UNDO
+[2024.05.31-18.56.33:054][393]LogEditorTransaction: Undo Landscape Editing: Move to Streaming Level
+[2024.05.31-18.56.33:376][400]Cmd: TRANSACTION UNDO
+[2024.05.31-18.56.33:376][400]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2024.05.31-18.56.33:640][407]Cmd: TRANSACTION UNDO
+[2024.05.31-18.56.33:640][407]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2024.05.31-18.56.33:945][416]Cmd: TRANSACTION UNDO
+[2024.05.31-18.56.33:945][416]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2024.05.31-18.56.34:188][423]Cmd: TRANSACTION UNDO
+[2024.05.31-18.56.34:188][423]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2024.05.31-18.56.34:217][423]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_3)
+[2024.05.31-18.56.34:312][423]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 256X256)
+[2024.05.31-18.56.34:318][423]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 256X256)
+[2024.05.31-18.56.34:322][423]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 256X256)
+[2024.05.31-18.56.34:326][423]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 256X256)
+[2024.05.31-18.56.34:452][424]Cmd: TRANSACTION UNDO
+[2024.05.31-18.56.34:452][424]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2024.05.31-18.56.34:453][424]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: FoliageInstancedStaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_3)
+[2024.05.31-18.56.34:778][424]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 256X256)
+[2024.05.31-18.56.34:785][424]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 256X256)
+[2024.05.31-18.56.34:789][424]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 256X256)
+[2024.05.31-18.56.34:793][424]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2024.05.31-18.56.34:831][424]Cmd: TRANSACTION UNDO
+[2024.05.31-18.56.34:831][424]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2024.05.31-18.56.42:922][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.05.31-18.56.43:174][654]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default1A6B719F4D001721CC7257A1E8DEED39.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.05.31-18.56.43:187][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.05.31-18.56.43:821][654]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default_BuiltDataADE308E04192F3CB47A6D6AD8B9E78FD.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.05.31-18.56.43:873][654]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.31-18.56.43:873][654]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.05.31-18.56.43:873][654]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.05.31-19.01.58:159][ 45]Cmd: TRANSACTION UNDO
+[2024.05.31-19.01.58:159][ 45]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.05.56:449][952]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.05.31-19.06.41:256][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.31-19.06.41:543][348]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default_Auto1A9D5C5934A53FC676BE3F6835FA7FD48.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2024.05.31-19.06.41:544][348]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.305
+[2024.05.31-19.06.41:545][348]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.305
+[2024.05.31-19.06.41:546][348]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TreePackMaple/Street/SM_streetHouse_A] ([1] browsable assets)...
+[2024.05.31-19.06.41:584][348]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TreePackMaple/Street/SM_streetHouse_A.SM_streetHouse_A]
+[2024.05.31-19.06.41:584][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/TreePackMaple/Street/SM_streetHouse_A]
+[2024.05.31-19.06.41:605][348]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/SM_streetHouse_A_Auto1FC7EEA72472FDD52F8E949987BCEEDF2.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Autosaves/Game/TreePackMaple/Street/SM_streetHouse_A_Auto1.uasset'
+[2024.05.31-19.06.41:606][348]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TreePackMaple/Materials/streetHouse/M_streetHouse] ([1] browsable assets)...
+[2024.05.31-19.06.41:636][348]OBJ SavePackage:     Rendered thumbnail for [Material /Game/TreePackMaple/Materials/streetHouse/M_streetHouse.M_streetHouse]
+[2024.05.31-19.06.41:636][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/TreePackMaple/Materials/streetHouse/M_streetHouse]
+[2024.05.31-19.06.41:648][348]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/M_streetHouse_Auto166CB3B1643593F1A353F71808EEE602C.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Autosaves/Game/TreePackMaple/Materials/streetHouse/M_streetHouse_Auto1.uasset'
+[2024.05.31-19.06.41:649][348]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TreePackMaple/Street/SM_streetHouse_B] ([1] browsable assets)...
+[2024.05.31-19.06.41:678][348]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TreePackMaple/Street/SM_streetHouse_B.SM_streetHouse_B]
+[2024.05.31-19.06.41:678][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/TreePackMaple/Street/SM_streetHouse_B]
+[2024.05.31-19.06.41:697][348]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/SM_streetHouse_B_Auto1775227954D84EA672A9EB59242DE064A.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Autosaves/Game/TreePackMaple/Street/SM_streetHouse_B_Auto1.uasset'
+[2024.05.31-19.06.41:698][348]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished] ([1] browsable assets)...
+[2024.05.31-19.06.41:727][348]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished]
+[2024.05.31-19.06.41:727][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished]
+[2024.05.31-19.06.41:744][348]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/M_Wood_Floor_Walnut_Polished_AutAA05DCF14D35CCA1A9E69E816C7254E8.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished_Auto1.uasset'
+[2024.05.31-19.06.41:745][348]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn] ([1] browsable assets)...
+[2024.05.31-19.06.41:774][348]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.M_Wood_Floor_Walnut_Worn]
+[2024.05.31-19.06.41:774][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn]
+[2024.05.31-19.06.41:791][348]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/M_Wood_Floor_Walnut_Worn_Auto1B927CC3A41AF2CE5966103B1C40B178D.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn_Auto1.uasset'
+[2024.05.31-19.06.41:791][348]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Wood_Oak] ([1] browsable assets)...
+[2024.05.31-19.06.41:821][348]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Wood_Oak.M_Wood_Oak]
+[2024.05.31-19.06.41:821][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Wood_Oak]
+[2024.05.31-19.06.41:839][348]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/M_Wood_Oak_Auto1D6CECE814E9D7A0FE13F9884E3CFF7BF.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Oak_Auto1.uasset'
+[2024.05.31-19.06.41:840][348]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Wood_Pine] ([1] browsable assets)...
+[2024.05.31-19.06.41:875][348]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Wood_Pine.M_Wood_Pine]
+[2024.05.31-19.06.41:875][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Wood_Pine]
+[2024.05.31-19.06.41:895][348]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/M_Wood_Pine_Auto16FC7A72647A6489D7CD6A59C5274B6B7.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Pine_Auto1.uasset'
+[2024.05.31-19.06.41:895][348]LogFileHelpers: Auto-saving content packages took 0.351
+[2024.05.31-19.06.47:423][534]LogHttp: Warning: 0000022634CAF900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.06.47:423][534]LogHttp: Warning: 0000022634CAF900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.05.31-19.06.47:424][534]LogHttp: Warning: 0000022634CAF900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x225fd37feb0 [can pipeline])
+[2024.05.31-19.06.47:424][534]LogHttp: Warning: 0000022634CAF900: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2024.05.31-19.06.47:424][534]LogHttp: Warning: 0000022634CAF900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (10.202.10.6) port 443 (#2))
+[2024.05.31-19.06.47:424][534]LogHttp: Warning: 0000022634CAF900: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.31-19.06.47:424][534]LogHttp: Warning: 0000022634CAF900: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.31-19.06.47:424][534]LogHttp: Warning: 0000022634CAF900: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.05.31-19.06.47:424][534]LogHttp: Warning: 0000022634CAF900: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2024.05.31-19.06.47:424][534]LogHttp: Warning: 0000022634CAF900: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2024.05.31-19.06.47:424][534]LogHttp: Warning: 0000022634CAF900: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2024.05.31-19.06.47:424][534]LogHttp: Warning: 0000022634CAF900: libcurl info message cache 9 (Closing connection 2)
+[2024.05.31-19.06.47:424][534]LogHttp: Warning: 0000022634CAF900: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.05.31-19.06.47:425][534]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.07.36:901][167]LogHttp: Warning: 000002263219D600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.07.36:901][167]LogHttp: Warning: 000002263219D600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-19.07.36:901][167]LogHttp: Warning: 000002263219D600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-19.07.36:901][167]LogHttp: Warning: 000002263219D600: libcurl info message cache 1 (Closing connection 3)
+[2024.05.31-19.07.36:931][168]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.08.25:768][793]LogHttp: Warning: 0000022634CAF900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.08.25:768][793]LogHttp: Warning: 0000022634CAF900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-19.08.25:768][793]LogHttp: Warning: 0000022634CAF900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-19.08.25:768][793]LogHttp: Warning: 0000022634CAF900: libcurl info message cache 1 (Closing connection 4)
+[2024.05.31-19.08.25:798][794]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.09.25:767][789]LogHttp: Warning: 0000022635A79D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.09.25:767][789]LogHttp: Warning: 0000022635A79D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-19.09.25:767][789]LogHttp: Warning: 0000022635A79D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-19.09.25:768][789]LogHttp: Warning: 0000022635A79D00: libcurl info message cache 1 (Closing connection 5)
+[2024.05.31-19.09.25:797][790]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.10.36:890][984]LogHttp: Warning: 0000022634CAE400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.10.36:891][984]LogHttp: Warning: 0000022634CAE400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-19.10.36:891][984]LogHttp: Warning: 0000022634CAE400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-19.10.36:891][984]LogHttp: Warning: 0000022634CAE400: libcurl info message cache 1 (Closing connection 6)
+[2024.05.31-19.10.36:891][984]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.11.25:752][565]LogHttp: Warning: 0000022634CADD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.11.25:752][565]LogHttp: Warning: 0000022634CADD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-19.11.25:752][565]LogHttp: Warning: 0000022634CADD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-19.11.25:753][565]LogHttp: Warning: 0000022634CADD00: libcurl info message cache 1 (Closing connection 7)
+[2024.05.31-19.11.25:783][566]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.12.10:678][960]Cmd: TRANSACTION UNDO
+[2024.05.31-19.12.10:678][960]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.12.11:220][969]Cmd: TRANSACTION UNDO
+[2024.05.31-19.12.11:220][969]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.12.36:869][588]LogHttp: Warning: 00000226352BF200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.12.36:869][588]LogHttp: Warning: 00000226352BF200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-19.12.36:869][588]LogHttp: Warning: 00000226352BF200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-19.12.36:869][588]LogHttp: Warning: 00000226352BF200: libcurl info message cache 1 (Closing connection 8)
+[2024.05.31-19.12.36:869][588]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.13.36:877][813]LogHttp: Warning: 0000022634E0E400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.13.36:877][813]LogHttp: Warning: 0000022634E0E400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-19.13.36:877][813]LogHttp: Warning: 0000022634E0E400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-19.13.36:877][813]LogHttp: Warning: 0000022634E0E400: libcurl info message cache 1 (Closing connection 9)
+[2024.05.31-19.13.36:912][814]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.14.36:869][305]LogHttp: Warning: 0000022634E0D600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.14.36:869][305]LogHttp: Warning: 0000022634E0D600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-19.14.36:869][305]LogHttp: Warning: 0000022634E0D600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-19.14.36:869][305]LogHttp: Warning: 0000022634E0D600: libcurl info message cache 1 (Closing connection 10)
+[2024.05.31-19.14.36:962][306]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.15.36:964][115]LogHttp: Warning: 00000225F4051D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.15.36:964][115]LogHttp: Warning: 00000225F4051D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-19.15.36:965][115]LogHttp: Warning: 00000225F4051D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-19.15.36:965][115]LogHttp: Warning: 00000225F4051D00: libcurl info message cache 1 (Closing connection 11)
+[2024.05.31-19.15.37:044][116]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.16.00:306][499]Cmd: TRANSACTION UNDO
+[2024.05.31-19.16.00:306][499]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.16.03:957][586]Cmd: TRANSACTION UNDO
+[2024.05.31-19.16.03:957][586]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.16.36:932][  2]LogHttp: Warning: 00000226071B9600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.16.36:932][  2]LogHttp: Warning: 00000226071B9600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-19.16.36:932][  2]LogHttp: Warning: 00000226071B9600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-19.16.36:932][  2]LogHttp: Warning: 00000226071B9600: libcurl info message cache 1 (Closing connection 12)
+[2024.05.31-19.16.36:932][  2]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.17.25:769][135]LogHttp: Warning: 00000226311B8F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.17.25:769][135]LogHttp: Warning: 00000226311B8F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-19.17.25:769][135]LogHttp: Warning: 00000226311B8F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-19.17.25:769][135]LogHttp: Warning: 00000226311B8F00: libcurl info message cache 1 (Closing connection 13)
+[2024.05.31-19.17.25:795][136]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.18.25:827][761]LogHttp: Warning: 0000022635B5EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.18.25:827][761]LogHttp: Warning: 0000022635B5EB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-19.18.25:827][761]LogHttp: Warning: 0000022635B5EB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-19.18.25:827][761]LogHttp: Warning: 0000022635B5EB00: libcurl info message cache 1 (Closing connection 14)
+[2024.05.31-19.18.25:903][762]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.18.27:044][777]Cmd: TRANSACTION UNDO
+[2024.05.31-19.18.27:044][777]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.18.51:527][164]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2024.05.31-19.19.01:863][354]Cmd: TRANSACTION UNDO
+[2024.05.31-19.19.01:863][354]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.19.02:387][356]Cmd: TRANSACTION UNDO
+[2024.05.31-19.19.02:387][356]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.19.02:785][357]Cmd: TRANSACTION UNDO
+[2024.05.31-19.19.02:785][357]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.19.03:252][360]Cmd: TRANSACTION UNDO
+[2024.05.31-19.19.03:252][360]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.19.03:692][363]Cmd: TRANSACTION UNDO
+[2024.05.31-19.19.03:692][363]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.19.04:205][367]Cmd: TRANSACTION UNDO
+[2024.05.31-19.19.04:206][367]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.19.05:012][374]Cmd: TRANSACTION UNDO
+[2024.05.31-19.19.05:012][374]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.19.05:844][381]Cmd: TRANSACTION UNDO
+[2024.05.31-19.19.05:844][381]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.19.14:720][483]Cmd: TRANSACTION UNDO
+[2024.05.31-19.19.14:720][483]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.19.25:018][640]Cmd: TRANSACTION UNDO
+[2024.05.31-19.19.25:018][640]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.19.25:937][665]Cmd: TRANSACTION UNDO
+[2024.05.31-19.19.25:937][665]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.19.26:883][674]Cmd: TRANSACTION UNDO
+[2024.05.31-19.19.26:883][674]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.19.36:439][764]Cmd: TRANSACTION UNDO
+[2024.05.31-19.19.36:439][764]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.19.36:976][766]LogHttp: Warning: 0000022606DC8100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.19.36:978][766]LogHttp: Warning: 0000022606DC8100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-19.19.36:978][766]LogHttp: Warning: 0000022606DC8100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-19.19.36:978][766]LogHttp: Warning: 0000022606DC8100: libcurl info message cache 1 (Closing connection 15)
+[2024.05.31-19.19.36:978][766]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.20.25:817][389]LogHttp: Warning: 0000022638818100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.20.25:817][389]LogHttp: Warning: 0000022638818100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-19.20.25:817][389]LogHttp: Warning: 0000022638818100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-19.20.25:817][389]LogHttp: Warning: 0000022638818100: libcurl info message cache 1 (Closing connection 16)
+[2024.05.31-19.20.25:885][390]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.20.50:242][879]LogEditorViewport: Clicking Background
+[2024.05.31-19.20.51:295][899]LogEditorViewport: Clicking Background
+[2024.05.31-19.21.34:829][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.05.31-19.21.35:135][520]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default_Auto241AE2CDF4A98CF667FD051AA83788FFE.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2024.05.31-19.21.35:137][520]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.321
+[2024.05.31-19.21.35:137][520]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.321
+[2024.05.31-19.24.19:619][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.05.31-19.24.19:911][564]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default7201323942156147783F3D8FDC54F9A7.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.05.31-19.24.19:924][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.05.31-19.24.20:564][564]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default_BuiltData94C1CA43474C5928100639ABC14430D2.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.05.31-19.24.20:662][564]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.31-19.24.20:662][564]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.05.31-19.24.20:662][564]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.05.31-19.25.21:234][871]Cmd: TRANSACTION UNDO
+[2024.05.31-19.25.21:234][871]LogEditorTransaction: Undo Foliage Editing
+[2024.05.31-19.34.19:638][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.31-19.34.19:887][311]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default_Auto34155406E409230FFD980288B3356A9D7.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2024.05.31-19.34.19:888][311]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.262
+[2024.05.31-19.34.19:888][311]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.262
+[2024.05.31-19.56.31:060][ 98]LogHttp: Warning: 0000022637912400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.56.31:060][ 98]LogHttp: Warning: 0000022637912400: request failed, libcurl error: 0 (No error)
+[2024.05.31-19.56.31:060][ 98]LogHttp: Warning: 0000022637912400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x225fd37c160 [can pipeline])
+[2024.05.31-19.56.31:060][ 98]LogHttp: Warning: 0000022637912400: libcurl info message cache 1 (Re-using existing connection! (#17) with host datarouter.ol.epicgames.com)
+[2024.05.31-19.56.31:060][ 98]LogHttp: Warning: 0000022637912400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (10.202.10.6) port 443 (#17))
+[2024.05.31-19.56.31:060][ 98]LogHttp: Warning: 0000022637912400: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.31-19.56.31:060][ 98]LogHttp: Warning: 0000022637912400: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.31-19.56.31:061][ 98]LogHttp: Warning: 0000022637912400: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.05.31-19.56.31:061][ 98]LogHttp: Warning: 0000022637912400: libcurl info message cache 6 (TLSv1.3 (IN), TLS Unknown, Unknown (21):)
+[2024.05.31-19.56.31:061][ 98]LogHttp: Warning: 0000022637912400: libcurl info message cache 7 (TLSv1.3 (IN), TLS alert, Client hello (1):)
+[2024.05.31-19.56.31:061][ 98]LogHttp: Warning: 0000022637912400: libcurl info message cache 8 (Connection died, retrying a fresh connect)
+[2024.05.31-19.56.31:061][ 98]LogHttp: Warning: 0000022637912400: libcurl info message cache 9 (necessary data rewind wasn't possible)
+[2024.05.31-19.56.31:061][ 98]LogHttp: Warning: 0000022637912400: libcurl info message cache 10 (Closing connection 17)
+[2024.05.31-19.56.31:061][ 98]LogHttp: Warning: 0000022637912400: libcurl info message cache 11 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.05.31-19.56.31:061][ 98]LogHttp: Warning: 0000022637912400: libcurl info message cache 12 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2024.05.31-19.56.31:061][ 98]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-19.57.25:734][773]LogHttp: Warning: 0000022636F6CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-19.57.25:734][773]LogHttp: Warning: 0000022636F6CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-19.57.25:735][773]LogHttp: Warning: 0000022636F6CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-19.57.25:735][773]LogHttp: Warning: 0000022636F6CF00: libcurl info message cache 1 (Closing connection 18)
+[2024.05.31-19.57.25:767][774]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-20.01.35:563][423]LogHttp: Warning: 0000022636F6EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-20.01.35:563][423]LogHttp: Warning: 0000022636F6EB00: request failed, libcurl error: 0 (No error)
+[2024.05.31-20.01.35:563][423]LogHttp: Warning: 0000022636F6EB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x225fd37f190 [can pipeline])
+[2024.05.31-20.01.35:563][423]LogHttp: Warning: 0000022636F6EB00: libcurl info message cache 1 (Re-using existing connection! (#19) with host datarouter.ol.epicgames.com)
+[2024.05.31-20.01.35:563][423]LogHttp: Warning: 0000022636F6EB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (10.202.10.8) port 443 (#19))
+[2024.05.31-20.01.35:563][423]LogHttp: Warning: 0000022636F6EB00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.31-20.01.35:563][423]LogHttp: Warning: 0000022636F6EB00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.31-20.01.35:563][423]LogHttp: Warning: 0000022636F6EB00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.05.31-20.01.35:564][423]LogHttp: Warning: 0000022636F6EB00: libcurl info message cache 6 (TLSv1.3 (IN), TLS Unknown, Unknown (21):)
+[2024.05.31-20.01.35:564][423]LogHttp: Warning: 0000022636F6EB00: libcurl info message cache 7 (TLSv1.3 (IN), TLS alert, Client hello (1):)
+[2024.05.31-20.01.35:564][423]LogHttp: Warning: 0000022636F6EB00: libcurl info message cache 8 (Connection died, retrying a fresh connect)
+[2024.05.31-20.01.35:564][423]LogHttp: Warning: 0000022636F6EB00: libcurl info message cache 9 (necessary data rewind wasn't possible)
+[2024.05.31-20.01.35:564][423]LogHttp: Warning: 0000022636F6EB00: libcurl info message cache 10 (Closing connection 19)
+[2024.05.31-20.01.35:564][423]LogHttp: Warning: 0000022636F6EB00: libcurl info message cache 11 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.05.31-20.01.35:564][423]LogHttp: Warning: 0000022636F6EB00: libcurl info message cache 12 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2024.05.31-20.01.35:596][424]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-20.02.25:723][959]LogHttp: Warning: 0000022637912400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-20.02.25:723][959]LogHttp: Warning: 0000022637912400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-20.02.25:724][959]LogHttp: Warning: 0000022637912400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-20.02.25:724][959]LogHttp: Warning: 0000022637912400: libcurl info message cache 1 (Closing connection 20)
+[2024.05.31-20.02.25:756][960]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-20.03.36:883][139]LogHttp: Warning: 0000022637910800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-20.03.36:883][139]LogHttp: Warning: 0000022637910800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-20.03.36:883][139]LogHttp: Warning: 0000022637910800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-20.03.36:884][139]LogHttp: Warning: 0000022637910800: libcurl info message cache 1 (Closing connection 21)
+[2024.05.31-20.03.36:916][140]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-20.04.36:917][978]LogHttp: Warning: 0000022636F6CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-20.04.36:917][978]LogHttp: Warning: 0000022636F6CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-20.04.36:917][978]LogHttp: Warning: 0000022636F6CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-20.04.36:917][978]LogHttp: Warning: 0000022636F6CF00: libcurl info message cache 1 (Closing connection 22)
+[2024.05.31-20.04.36:917][978]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-20.06.47:457][972]LogHttp: Warning: 0000022637912B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-20.06.47:457][972]LogHttp: Warning: 0000022637912B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.05.31-20.06.47:457][972]LogHttp: Warning: 0000022637912B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x225fd37f850 [can pipeline])
+[2024.05.31-20.06.47:457][972]LogHttp: Warning: 0000022637912B00: libcurl info message cache 1 (Re-using existing connection! (#23) with host datarouter.ol.epicgames.com)
+[2024.05.31-20.06.47:457][972]LogHttp: Warning: 0000022637912B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (10.202.10.5) port 443 (#23))
+[2024.05.31-20.06.47:457][972]LogHttp: Warning: 0000022637912B00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.31-20.06.47:457][972]LogHttp: Warning: 0000022637912B00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.31-20.06.47:457][972]LogHttp: Warning: 0000022637912B00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.05.31-20.06.47:457][972]LogHttp: Warning: 0000022637912B00: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2024.05.31-20.06.47:457][972]LogHttp: Warning: 0000022637912B00: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2024.05.31-20.06.47:457][972]LogHttp: Warning: 0000022637912B00: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2024.05.31-20.06.47:457][972]LogHttp: Warning: 0000022637912B00: libcurl info message cache 9 (Closing connection 23)
+[2024.05.31-20.06.47:457][972]LogHttp: Warning: 0000022637912B00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.05.31-20.06.47:458][972]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-20.07.36:894][484]LogHttp: Warning: 0000022636F6CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-20.07.36:895][484]LogHttp: Warning: 0000022636F6CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-20.07.36:895][484]LogHttp: Warning: 0000022636F6CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-20.07.36:895][484]LogHttp: Warning: 0000022636F6CF00: libcurl info message cache 1 (Closing connection 24)
+[2024.05.31-20.07.36:895][484]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-20.08.36:910][320]LogHttp: Warning: 0000022636892B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-20.08.36:910][320]LogHttp: Warning: 0000022636892B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-20.08.36:910][320]LogHttp: Warning: 0000022636892B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-20.08.36:910][320]LogHttp: Warning: 0000022636892B00: libcurl info message cache 1 (Closing connection 25)
+[2024.05.31-20.08.36:910][320]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-20.09.25:764][815]LogHttp: Warning: 0000022636F6C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-20.09.25:764][815]LogHttp: Warning: 0000022636F6C100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-20.09.25:764][815]LogHttp: Warning: 0000022636F6C100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-20.09.25:764][815]LogHttp: Warning: 0000022636F6C100: libcurl info message cache 1 (Closing connection 26)
+[2024.05.31-20.09.25:796][816]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-20.10.36:916][990]LogHttp: Warning: 0000022636F6EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-20.10.36:916][990]LogHttp: Warning: 0000022636F6EB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-20.10.36:916][990]LogHttp: Warning: 0000022636F6EB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-20.10.36:916][990]LogHttp: Warning: 0000022636F6EB00: libcurl info message cache 1 (Closing connection 27)
+[2024.05.31-20.10.36:916][990]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-20.11.36:894][825]LogHttp: Warning: 0000022636892400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-20.11.36:894][825]LogHttp: Warning: 0000022636892400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-20.11.36:894][825]LogHttp: Warning: 0000022636892400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-20.11.36:894][825]LogHttp: Warning: 0000022636892400: libcurl info message cache 1 (Closing connection 28)
+[2024.05.31-20.11.36:926][826]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-20.12.33:153][124]LogHttp: Warning: 0000022636890100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-20.12.33:153][124]LogHttp: Warning: 0000022636890100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-20.12.33:153][124]LogHttp: Warning: 0000022636890100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-20.12.33:153][124]LogHttp: Warning: 0000022636890100: libcurl info message cache 1 (Closing connection 29)
+[2024.05.31-20.12.33:153][124]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-20.13.26:160][282]LogHttp: Warning: 0000022637913200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-20.13.26:160][282]LogHttp: Warning: 0000022637913200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.31-20.13.26:160][282]LogHttp: Warning: 0000022637913200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.31-20.13.26:160][282]LogHttp: Warning: 0000022637913200: libcurl info message cache 1 (Closing connection 30)
+[2024.05.31-20.13.26:160][282]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-20.15.45:116][725]LogHttp: Warning: 0000022634750F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.05.31-20.15.45:116][725]LogHttp: Warning: 0000022634750F00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.05.31-20.15.45:116][725]LogHttp: Warning: 0000022634750F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x225fd37fd60 [can pipeline])
+[2024.05.31-20.15.45:116][725]LogHttp: Warning: 0000022634750F00: libcurl info message cache 1 (Re-using existing connection! (#31) with host datarouter.ol.epicgames.com)
+[2024.05.31-20.15.45:116][725]LogHttp: Warning: 0000022634750F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (10.202.10.4) port 443 (#31))
+[2024.05.31-20.15.45:116][725]LogHttp: Warning: 0000022634750F00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.31-20.15.45:116][725]LogHttp: Warning: 0000022634750F00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.05.31-20.15.45:116][725]LogHttp: Warning: 0000022634750F00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.05.31-20.15.45:116][725]LogHttp: Warning: 0000022634750F00: libcurl info message cache 6 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2024.05.31-20.15.45:116][725]LogHttp: Warning: 0000022634750F00: libcurl info message cache 7 (Connection died, retrying a fresh connect)
+[2024.05.31-20.15.45:117][725]LogHttp: Warning: 0000022634750F00: libcurl info message cache 8 (necessary data rewind wasn't possible)
+[2024.05.31-20.15.45:117][725]LogHttp: Warning: 0000022634750F00: libcurl info message cache 9 (Closing connection 31)
+[2024.05.31-20.15.45:117][725]LogHttp: Warning: 0000022634750F00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.05.31-20.15.45:169][726]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F39AC4-4125-3965-F233-D29FE0EC17A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=1ceca41e470b917b7e4343ab3a9aa8a8%7C851a575321b54f1eb5119a86e60c5229%7Cd40209db-5033-4b26-8220-a7d43540993d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.31-20.16.27:540][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.05.31-20.16.27:841][702]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default5A455F7141AE0CD59A9DF7BD9B4A809B.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.05.31-20.16.27:855][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.05.31-20.16.28:539][702]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default_BuiltData976E3D9F401E5D3F626DE9B3D381ED6F.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.05.31-20.16.28:585][702]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.31-20.16.28:585][702]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.05.31-20.16.28:586][702]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.05.31-20.17.31:997][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.05.31-20.17.32:253][ 64]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default45D831304A5000B27F204F99579753AB.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.05.31-20.17.32:267][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2024.05.31-20.17.32:941][ 64]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default_BuiltDataA5401C2C483DEF4E1B8EE1B634057DC0.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.05.31-20.17.32:995][ 64]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.31-20.17.32:996][ 64]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.05.31-20.17.32:996][ 64]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
