@@ -1355,3 +1355,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.01-05.46.15:044][801]AssetCheck: New page: Asset Save: multiple assets
 [2024.06.01-05.46.15:044][801]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.06.01-05.46.15:044][801]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.01-05.49.36:426][627]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
