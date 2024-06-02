@@ -906,3 +906,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.02-04.19.54:365][255]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
 [2024.06.02-04.22.03:935][994]BlueprintLog: New page: Compile Minimal_Default
 [2024.06.02-04.22.04:338][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2024.06.02-04.26.56:853][147]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.02-04.26.57:128][147]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2024.06.02-04.27.41:007][538]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.02-04.27.41:254][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2024.06.02-04.28.25:915][936]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.02-04.28.26:161][936]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2024.06.02-04.28.26:240][939]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.02-04.28.26:486][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2024.06.02-04.28.56:424][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2024.06.02-04.28.58:516][ 91]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default_Auto10500EDDD4B2446DD68A75F93938BA6D9.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2024.06.02-04.28.58:524][ 91]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 2.134
+[2024.06.02-04.28.58:524][ 91]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.134
+[2024.06.02-04.29.01:245][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.06.02-04.29.03:239][116]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default317B9E5E49ABB7552FD482905D61A890.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.02-04.29.03:252][116]LogFileHelpers: Saving map 'Minimal_Default' took 2.040
+[2024.06.02-04.29.03:410][116]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.06.02-04.29.03:612][116]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
