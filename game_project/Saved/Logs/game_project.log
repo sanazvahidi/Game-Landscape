@@ -923,3 +923,79 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.02-04.29.03:252][116]LogFileHelpers: Saving map 'Minimal_Default' took 2.040
 [2024.06.02-04.29.03:410][116]AssetCheck: New page: Asset Save: Minimal_Default
 [2024.06.02-04.29.03:612][116]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.02-04.40.27:583][573]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.02-04.40.27:831][573]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2024.06.02-04.40.29:277][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2024.06.02-04.40.31:211][586]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default02785AFB44C59FE45C090EA92709B055.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.02-04.40.31:229][586]LogFileHelpers: Saving map 'Minimal_Default' took 1.990
+[2024.06.02-04.40.31:258][586]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.06.02-04.40.31:258][586]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.02-04.40.50:389][ 50]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.02-04.40.50:641][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2024.06.02-04.41.20:697][724]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.02-04.41.20:950][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2024.06.02-04.42.23:490][217]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.02-04.42.23:758][217]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2024.06.02-04.48.49:088][501]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.02-04.48.49:352][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2024.06.02-04.48.54:298][548]LogTemp: Repeating last play command: Selected Viewport
+[2024.06.02-04.48.54:318][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.02-04.48.54:329][548]PIE: New page: PIE session: Minimal_Default (Jun 1, 2024, 2:48:54 PM)
+[2024.06.02-04.48.54:346][548]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.06.02-04.48.54:350][548]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.06.02-04.48.54:352][548]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.06.02-04.48.54:911][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.559597s)
+[2024.06.02-04.48.54:916][548]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.06.02-04.48.54:917][548]LogPlayLevel: PIE: World Init took: (0.005088s)
+[2024.06.02-04.48.54:918][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.565868s)
+[2024.06.02-04.48.54:952][548]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2024.06.02-04.48.54:957][548]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.06.02-04.48.54:957][548]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.02-04.48.54:957][548]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.02-04.48.54:957][548]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.02-04.48.54:957][548]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.02-04.48.54:957][548]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.02-04.48.54:957][548]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.02-04.48.54:957][548]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.02-04.48.54:958][548]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.02-04.48.54:958][548]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.02-04.48.54:958][548]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.02-04.48.54:958][548]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.02-04.48.54:958][548]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.02-04.48.54:966][548]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.02-04.48.54:966][548]LogAudioMixer: Display: 1: FrontRight
+[2024.06.02-04.48.55:000][548]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2024.06.02-04.48.55:001][548]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.02-04.48.55:001][548]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.02-04.48.55:001][548]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.02-04.48.55:004][548]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.02-04.48.55:004][548]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.02-04.48.55:004][548]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.02-04.48.55:006][548]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.02-04.48.55:006][548]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.02-04.48.55:006][548]LogInit: FAudioDevice initialized.
+[2024.06.02-04.48.55:006][548]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2024.06.02-04.48.55:026][548]LogLoad: Game class is 'GameModeBase'
+[2024.06.02-04.48.57:682][548]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2024.06.01-21.48.57
+[2024.06.02-04.48.57:687][548]LogWorld: Bringing up level for play took: 2.633200
+[2024.06.02-04.48.57:691][548]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2024.06.02-04.48.57:747][548]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2024.06.02-04.48.57:782][548]LogBlueprintUserMessages: [Minimal_Default_C_12] ab1
+[2024.06.02-04.48.57:958][548]PIE: Server logged in
+[2024.06.02-04.48.57:960][548]PIE: Play in editor total start time 3.652 seconds.
+[2024.06.02-04.49.12:507][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-04.49.12:507][672]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.06.02-04.49.12:511][672]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.06.02-04.49.13:449][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-04.49.13:466][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.02-04.49.13:474][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.02-04.49.13:520][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.02-04.49.13:529][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.02-04.49.13:532][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.02-04.49.13:623][672]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2024.06.02-04.49.13:660][673]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.06.02-04.50.16:989][792]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2024.06.02-04.50.18:930][792]LogSavePackage: Moving 'G:/UE/PROJECT/Game-Landscape/game_project/Saved/Minimal_Default92D9824A489487F27B93108DC683402C.tmp' to 'G:/UE/PROJECT/Game-Landscape/game_project/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.02-04.50.18:948][792]LogFileHelpers: Saving map 'Minimal_Default' took 2.016
+[2024.06.02-04.50.18:985][792]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.06.02-04.50.18:985][792]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
